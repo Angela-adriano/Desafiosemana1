@@ -1,0 +1,29 @@
+#planeta{
+    background-color: rgb(86, 98, 133);
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+}
+#paragrafo{
+    text-align: center;
+    
+}
+#link{
+    text-align: center;
+    
+}
+#exemplos{
+    background-color: rgb(218, 255, 255);
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    
+    
+}
+#imagem{
+    width: auto;
+    height: 200;
+    position: absolute;
+    left: 350px;
+    
+}
